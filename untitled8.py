@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1BK49fO2gW_mnp7JzGbtbloEF1N9VQ09R
 """
 
+!pip install scikit-learn
 
 
 import pandas as pd
